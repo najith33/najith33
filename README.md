@@ -16,7 +16,7 @@ Currently studying [Your Degree] @ [Your University]<br>
 
 ### ⚡ Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/subair-najith?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnjpZ%2FJhaSjG9RcazAXZcrA%3D%3D)" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://stackoverflow.com/users/yourid" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
   <a href="https://www.facebook.com/yourprofile" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
   <a href="https://instagram.com/yourprofile" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
