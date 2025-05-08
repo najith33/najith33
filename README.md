@@ -9,8 +9,8 @@ Currently studying [Your Degree] @ [Your University]<br>
 ---
 
 ### 📫 How to reach me:
-- Email: [your email]
-- LinkedIn: [your LinkedIn link]
+- Email: mnajith654@gmail.com
+- LinkedIn: https://www.linkedin.com/in/subair-najith?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnjpZ%2FJhaSjG9RcazAXZcrA%3D%3D
 
 ---
 
